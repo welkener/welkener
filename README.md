@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @welkener
+- 👀 I’m interested in Python, Java, Django, B.I, Kanban,OKR, etc.
+- 🌱 I’m currently learning  B.I
