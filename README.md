@@ -1,4 +1,2 @@
-- 👋 Hi, I’m @welkener
-- I'm Love DBA | Data Engineer | Data Analyst | BI
-- 👀 I’m interested in Python, Java, Django, Kanban,OKR, etc.
-- 🌱 I’m currently learning  B.I, Data Science and Data analysts
+- 👋 Hi, I’m @welkenerLima
+- Especialista em Inteligência Artificial, Data Science e BI | LLMs | Database Administrator | Python | PostgreSQL
